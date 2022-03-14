@@ -1,4 +1,4 @@
-# scanmap
+# ScanMap
 ## A Multi Threaded Port Scanner
 
  Port?  Use ScanMap.
